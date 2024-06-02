@@ -1,3 +1,14 @@
+# **Narendra Patil**
+
+Aspiring Data Analyst | Core Skills: Statistical Analysis, Problem Solving, Communication, Critical Thinking, Attention to Detail | Certified in Python, SQL, AI | Proficient in Python, SQL, Tableau, Power BI
+
+- LinkedIn : https://www.linkedin.com/in/narendra-patil-583b242a1/
+- Github : https://github.com/Narendraspatil
+- Kaggle : https://www.kaggle.com/narendraspatil
+- Instagram : https://www.instagram.com/visionindata/
+
+=====================================================================================================================================================================================================================
+
 # Data Analysis of Myntra Products: Optimizing Pricing and Discount Strategies
 
 **Project Overview**
@@ -15,16 +26,17 @@ Myntra aims to balance competitive pricing with attractive discounts across dive
 4. Provide actionable recommendations for pricing and discount strategies.
 
 **Technologies Used**
-Python: Data cleaning, Exploratory Data Analysis (EDA)
-Pandas: Data manipulation and analysis
-Matplotlib and Seaborn: Data visualization
-Power BI: Dashboard creation and data presentation
+- Excel: For initial data understanding and basic data cleaning (although the large dataset required transitioning to Python for efficiency).
+- Python: Data cleaning, Exploratory Data Analysis (EDA)
+- Pandas: Data manipulation and analysis
+- Matplotlib and Seaborn: Data visualization
+- Power BI: Dashboard creation and data presentation
 
 **Data Cleaning Steps**
-Dropping unnecessary columns: Removed 'img', 'asin', and 'purl' columns.
-Checking for missing values: Ensured no missing values in the dataset.
-Checking for duplicates: Removed any duplicate entries.
-Creating new columns: Added 'totalDiscount' and 'percentageDiscount' columns to analyze discounts.
+- Dropping unnecessary columns: Removed 'img', 'asin', and 'purl' columns.
+- Checking for missing values: Ensured no missing values in the dataset.
+- Checking for duplicates: Removed any duplicate entries.
+- Creating new columns: Added 'totalDiscount' and 'percentageDiscount' columns to analyze discounts.
 
 **Key Analysis Points**
 
@@ -48,6 +60,7 @@ Relationship Analysis
 - Dynamic Discounting: Implement dynamic discounting strategies for budget-friendly products based on seasonality and inventory levels.
 
 **Conclusion**
+
 This analysis provides a strategic approach for Myntra to refine its pricing and promotional strategies. By focusing on mid-range products with competitive discounts and maintaining premium segments with controlled discounting practices, Myntra can optimize revenue, profitability, and customer satisfaction across different product categories.
 
 **Dashboard**
@@ -61,7 +74,7 @@ A Power BI dashboard was created to visualize the insights from the analysis, fe
 - Link to Power BI Dashboard
 
 **How to Run the Project**
-Clone the repository.
-Install the necessary libraries from requirements.txt.
-Run the Jupyter notebooks to perform the EDA.
-Open the Power BI file to explore the dashboard.
+- Clone the repository.
+- Install the necessary libraries from requirements.txt.
+- Run the Jupyter notebooks to perform the EDA.
+- Open the Power BI file to explore the dashboard.
