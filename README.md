@@ -7,7 +7,7 @@ Aspiring Data Analyst | Core Skills: Statistical Analysis, Problem Solving, Comm
 - Kaggle : https://www.kaggle.com/narendraspatil
 - Instagram : https://www.instagram.com/visionindata/
 
-============================================================================================
+==============================================================
 # Data Analysis of Myntra Products: Optimizing Pricing and Discount Strategies
 
 ### **Project Overview**
