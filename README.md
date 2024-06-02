@@ -1,9 +1,11 @@
-## Data Analysis of Myntra Products: Optimizing Pricing and Discount Strategies
+# Data Analysis of Myntra Products: Optimizing Pricing and Discount Strategies
 
 **Project Overview**
+
 This project focuses on performing Exploratory Data Analysis (EDA) on a dataset of products from Myntra, an online ecommerce store, to derive meaningful insights and visualize them effectively. The primary goal is to optimize Myntra's pricing and discount strategies to increase sales, enhance customer satisfaction, and maintain profitability.
 
 **Problem Statement**
+
 Myntra aims to balance competitive pricing with attractive discounts across diverse product categories. The challenge is to identify optimal pricing segments and understand customer preferences to refine pricing and promotional strategies.
 
 **Objectives**
@@ -49,6 +51,7 @@ Relationship Analysis
 This analysis provides a strategic approach for Myntra to refine its pricing and promotional strategies. By focusing on mid-range products with competitive discounts and maintaining premium segments with controlled discounting practices, Myntra can optimize revenue, profitability, and customer satisfaction across different product categories.
 
 **Dashboard**
+
 A Power BI dashboard was created to visualize the insights from the analysis, featuring:
 - Distribution of Ratings by Products
 - Distribution of Prices of Products
